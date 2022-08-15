@@ -5,14 +5,17 @@ Esta es la evaluacion presentado por Yeison Munoz 456968. Lo anterior trabajado 
 IMAGEN 
 ![LogoGitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
-LINK
-![GitYGitHub]https://www.youtube.com/watch?v=DinilgacaWs
+LINK Video ¿Que es Git y GitHub?
+https://www.youtube.com/watch?v=DinilgacaWs
 
 COMANDOS GIT
 
 git clone https://github.com/hacUPB/evaluacion-1-YeyeyMC
+
 git add wcat.c
+
 git commit -m wcat.c
+
 git push
 
 
